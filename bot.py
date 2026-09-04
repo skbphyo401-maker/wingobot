@@ -10,7 +10,7 @@ from telegram.ext import Application, CommandHandler, ContextTypes
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
-TELEGRAM_BOT_TOKEN = "8627859015:AAH22tUL126grjh6NDk5yMwKqCKgFu3belc"
+TELEGRAM_BOT_TOKEN = "8673352691:AAFyMGC_P-bdELP6ivJqOU8AHHlxbYFj4xY"
 WINGO_TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOiIxNzg2MDMwODYzIiwibmJmIjoiMTc4NjAzMDg2MyIsImV4cGlyYXRpb24iOiI4LzYvMjAyNiAxMDo0MTowMyBQTSIsIlVzZXJJZCI6IjU4NjkyMyJ9.XLvoZF6-VmGtfPX7M426I9S2-KbNTbls4sE3XZXtE_E"
 
 API_BASE = "https://ckygjf6r.com/api/webapi/"
